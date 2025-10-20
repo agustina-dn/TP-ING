@@ -10,6 +10,8 @@ public class Main {
 		System.out.print("Hola mundo");
 		System.out.print("Hola desde el release/1.0.0");
 		System.out.print("Correccion de bug en produccion (HOTFIX)");
+		System.out.print("Estoy en la funcionalidad A");
+		
 	}
 
 }
