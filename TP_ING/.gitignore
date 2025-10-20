@@ -1,0 +1,54 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# Archivos de compilación y binarios
+*.class
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+bin/
+build/
+dist/
+target/
+
+# Archivos temporales
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Archivos de dependencias
+node_modules/
+venv/
+_pycache_/
+*.pyc
+
+# Archivos de configuración locales
+.env
+.env.local
+config.local.json
+
+# Archivos de bases de datos locales
+*.db
+*.sqlite
+
+# Archivos de empaquetado
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Archivos de sistema operativo
+ehthumbs.db
+Icon?
